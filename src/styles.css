@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Hind Vadodara';    
+    src: url('assets/fonts/HindVadodara-Light.ttf') ;
+    font-style: normal;
+    font-weight: 500;
+        
+}
+
+@font-face {
+    font-family: 'Hind Vadodara';    
+    /* src: url('assets/fonts/HindVadodara-Light.ttf') ; */
+    src: url('assets/fonts/HindVadodara-Bold.ttf') ;
+    font-style: normal;
+    font-weight: 900;
+        
+}
+
+.ggf {
+    font-family: 'Hind Vadodara',sans-serif;
+    font-weight: 500;
+}

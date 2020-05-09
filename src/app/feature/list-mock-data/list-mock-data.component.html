@@ -1,0 +1,5 @@
+<ul>
+<ng-container *ngFor="let data of array">
+    <li [routerLink]="['/mock-data/detail-mock',data.id]">{{data.name}}</li>
+</ng-container>
+</ul>
